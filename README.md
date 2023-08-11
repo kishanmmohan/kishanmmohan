@@ -1,6 +1,6 @@
 ## Hi there, I'm [Kishan](https://kishanmmohan.dev)
 
-Data Architect at [CrowdANALYTIX](https://github.com/crowdanalytix)
+Senior Software Engineer at [CrowdANALYTIX](https://github.com/crowdanalytix)
 
 ![Kishan's Github Stats](https://github-readme-stats.vercel.app/api?username=kishanmmohan&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanmmohan)
