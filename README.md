@@ -1,7 +1,8 @@
 Hi there, I'm Kishan 
 =======================  
-Technical Product Manager 
--------------------------
+
+Technical Product Manager at [CrowdANALYTIX](https://github.com/crowdanalytix)
+
 I have over 7 years of experience in building and managing data products powered by LLM, AI Models and Data Pipelines - primarily focusing on data lifecycle management for Product Information Management Systems. 
 
 In the realm of data, my expertise lies in designing/developing backend systems, databases and data pipelines for optimal performance and scalability. I command a strong proficiency in PostgreSQL. This proficiency, combined with unique challenges in designing systems for product onboarding, has allowed me to optimize data workflows for enhanced efficiency.  
