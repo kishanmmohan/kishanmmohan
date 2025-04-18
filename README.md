@@ -1,7 +1,7 @@
 Hi there, I'm Kishan 
 =======================  
 
-**Senior Software Engineer at [Crowdanalytix](https://github.com/RadiusAI)**
+**Senior Software Engineer at [Radius AI](https://github.com/RadiusAI)**
 
 I have over 8 years of experience building and managing data products powered by LLM, AI Models, and Data Pipelines, primarily focusing on data lifecycle management for Product Information Management Systems. 
 
